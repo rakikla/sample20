@@ -1,3 +1,9 @@
 hi im rakila
 
+<<<<<<< HEAD
 age 28
+=======
+hii
+>>>>>>> ModuleName
+
+hello
